@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script&display=swap');
 /*!
  * Bootstrap v4.3.1 (https://getbootstrap.com/)
  * Copyright 2011-2019 The Bootstrap Authors
@@ -9830,6 +9831,9 @@ figure.woocommerce-product-gallery__wrapper {
 }
 .gallery-caption {
   display: block;
+}
+a.navbar-brand {
+  font-family: 'Dancing Script', cursive;
 }
 .myclass {
   font-size: 35px;
