@@ -12,6 +12,7 @@
 	font-family: "Times New Roman", Times, serif;
 }
 
+
 a.navbar-brand  {
 	@include logoFont;
 	
@@ -36,4 +37,8 @@ a.navbar-brand  {
 	a{
 		color: $blue;
 	}
+}
+
+body{
+	 background-image: url("https://swatches.alma1938.co/wp-content/uploads/2017/03/Veg_Tan_Natural_Cream_Plain_FLT_ALMA_Leather.jpg");
 }
